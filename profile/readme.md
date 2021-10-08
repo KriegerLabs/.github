@@ -7,13 +7,7 @@
 
 <!-- About me -->
 <p>
-We are a Germany based digital research and foundry organization! We aim to make Artificial Intelligence more sustainable and easier to use in our everyday lifes.
-We commonly use GitHub for Private repos regarding ou research & We love releasing byproducts in Public repos such as Email Templates & more.
+We at Krieger Labs develop web applications for al
 </p>
 
-<!-- Personal Stuffs -->
-<h3> Current Projects:</h3>
-
-- AI assisted E-Commerce
-
-- AI assisted Storaging
+![Metrics](https://metrics.lecoq.io/KriegerLabs?template=classic&introduction=1&languages=1&projects=1&discussions=1&repositories=1&sponsors=1&pagespeed=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.aliases=html%2C%20tailwindcss%2C%20javascript&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&projects.limit=4&projects.descriptions=false&sponsors.sections=goal%2C%20about&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Europe%2FBerlin)
