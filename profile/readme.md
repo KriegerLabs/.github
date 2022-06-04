@@ -1,7 +1,7 @@
 ![Banner](https://user-images.githubusercontent.com/36012642/136537834-54d3c812-dd2a-43ab-acc4-7bf67b1330ef.png)
 
 <!-- welcome message -->
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px"></h2>
 
 <h3>Welcome to our GitHub organization profile!</h3>
 
