@@ -2,7 +2,7 @@
 
 OOC Name & Discord: Daniel, dlnkrg#7478
 OOC Age: 20
-Are you new to roleplay?: Yes
+Are you new to roleplay?: No
 
 **Explain how experienced you are as a roleplayer, how long have you been roleplaying and where:**
 
